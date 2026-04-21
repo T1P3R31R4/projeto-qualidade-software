@@ -51,6 +51,7 @@ if (filtroCategoria != null) {
 if (filtroPreco != null) {
     query += " OR preco = " + filtroPreco; // ALERTA: Esse 'OR' em vez de 'AND' explicaria as buscas incorretas do case!
 }
+```
 
 🔹 **Situações a serem testadas**
 * **Situação 1 (Cobertura de Desvios/Condicionais):** Testar se os blocos `IF` dos filtros opcionais são executados corretamente quando vazios. O sistema trata variáveis `null` ou `undefined` sem quebrar a consulta?
