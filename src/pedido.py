@@ -1,2 +1,3 @@
 def calcular_total_pedido(itens, valor_minimo):
-    return 30
+    total = sum(item.get("preco", 0) for item in itens)
+    return total
