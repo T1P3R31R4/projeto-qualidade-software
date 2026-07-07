@@ -29,7 +29,7 @@ playwright codegen [https://local-eats-unisenac.vercel.app/](https://local-eats-
 
 ### 🔗 Link para o código gerado
 
-👉 https://github.com/T1P3R31R4/PBL7_Qualidade_de_Softwate/blob/main/tests/codegen_login.py
+👉 https://github.com/T1P3R31R4/PBL7e8_Qualidade_de_Softwate/blob/main/tests/codegen_login.py
 
 ### 🧠 Observações
 
@@ -43,7 +43,7 @@ playwright codegen [https://local-eats-unisenac.vercel.app/](https://local-eats-
 
 ### 🔗 Link para o teste
 
-👉 https://github.com/T1P3R31R4/PBL7_Qualidade_de_Softwate/blob/main/tests/test_login.py
+👉 https://github.com/T1P3R31R4/PBL7e8_Qualidade_de_Softwate/blob/main/tests/test_login.py
 
 ### 📌 O que o teste faz?
 
@@ -58,11 +58,11 @@ playwright codegen [https://local-eats-unisenac.vercel.app/](https://local-eats-
 
 ### 🔗 Link para Page Object
 
-👉 https://github.com/T1P3R31R4/PBL7_Qualidade_de_Softwate/blob/main/pages/login_page.py
+👉 https://github.com/T1P3R31R4/PBL7e8_Qualidade_de_Softwate/blob/main/pages/login_page.py
 
 ### 🔗 Link para teste refatorado
 
-👉 https://github.com/T1P3R31R4/PBL7_Qualidade_de_Softwate/blob/main/tests/test_login.py
+👉 https://github.com/T1P3R31R4/PBL7e8_Qualidade_de_Softwate/blob/main/tests/test_login.py
 
 ### 🧠 Melhorias realizadas
 
